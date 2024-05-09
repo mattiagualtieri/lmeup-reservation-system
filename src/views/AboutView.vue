@@ -7,7 +7,7 @@
         </div>
         <SectionTitleComponent title="Perché lo facciamo"/>
         <div class="images">
-            <div class="text-container fadable">
+            <div class="text-container">
                 <p>
 Quante volte anche Noi ce lo siamo chiesti. <br>
 Cercando di approcciare con razionalità qualcosa che ci sembrava, e tuttora ci sembra, così irrazionale. <br>
