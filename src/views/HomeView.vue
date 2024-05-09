@@ -1,7 +1,12 @@
 <template>
     <VideoComponent/>
     <SectionTitleComponent title="Prossimi eventi"/>
-    <ComingSoonComponent/>
+    <ComingEventComponent 
+        title="Torneo di Beach Volley" 
+        date="11/05/2024" 
+        location="Modena, Via Tonini 5" 
+        banner="banner6" 
+        info_url="https://www.instagram.com/p/C6D_kRKq-ND/?igsh=OTVwYnNld3kwOXJz" />
     <SectionTitleComponent title="Eventi passati"/>
     <EventComponent 
         title="LMEUP di Settembre" 
@@ -28,7 +33,8 @@
 <script>
 import VideoComponent from '../components/VideoComponent.vue'
 import SectionTitleComponent from '../components/SectionTitleComponent.vue'
-import ComingSoonComponent from '../components/ComingSoonComponent.vue'
+//import ComingSoonComponent from '../components/ComingSoonComponent.vue'
+import ComingEventComponent from '../components/ComingEventComponent.vue'
 import EventComponent from '../components/EventComponent.vue'
 import SeeAllButtonComponent from '../components/SeeAllButtonComponent.vue'
 import FooterComponent from '../components/FooterComponent.vue'
@@ -38,7 +44,8 @@ export default {
   components: {
     VideoComponent,
     SectionTitleComponent,
-    ComingSoonComponent,
+    // ComingSoonComponent,
+    ComingEventComponent,
     EventComponent,
     SeeAllButtonComponent,
     FooterComponent

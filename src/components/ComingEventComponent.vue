@@ -16,7 +16,7 @@
                 </div>
                 <div class="buttons">
                     <button class="button white-button disabled">Feedbacks</button>
-                    <a :href="photo_url" target="_blank" class="button green-button">Vai alle foto</a>
+                    <a :href="info_url" target="_blank" class="button green-button">Info</a>
                 </div>
             </div>
         </div>
@@ -25,13 +25,13 @@
   
 <script>
 export default {
-    name: 'EventComponent',
+    name: 'ComingEventComponent',
     props: {
         title: String,
         date: String,
         location: String,
         banner: String,
-        photo_url: String
+        info_url: String
     },
     computed: {
         classes () {
@@ -157,14 +157,6 @@ export default {
     background-color: white; 
     color: black;
 }
-
-/*
-.white-button:hover {
-    background-color: #006321;
-    color: white; 
-    border: 2px solid #006321;
-}
-*/
 
 .disabled {
     opacity: 0.6;
