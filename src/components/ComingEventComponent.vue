@@ -96,6 +96,10 @@ export default {
     background-image: url('../assets/banner6.jpeg');
 }
 
+.banner7 {
+    background-image: url('../assets/banner7.jpeg');
+}
+
 .event-right-content {
     display: grid;
     width: 100%;

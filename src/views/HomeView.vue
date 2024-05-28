@@ -2,12 +2,18 @@
     <VideoComponent/>
     <SectionTitleComponent title="Prossimi eventi"/>
     <ComingEventComponent 
+        title="LMEUP di Giugno" 
+        date="14/06/2024" 
+        location="Modena, Via Tonini 5" 
+        banner="banner7" 
+        info_url="https://www.instagram.com/p/C6D_kRKq-ND/?igsh=OTVwYnNld3kwOXJz" />
+    <SectionTitleComponent title="Eventi passati"/>
+    <ComingEventComponent 
         title="Torneo di Beach Volley" 
         date="11/05/2024" 
         location="Modena, Via Tonini 5" 
         banner="banner6" 
         info_url="https://www.instagram.com/p/C6D_kRKq-ND/?igsh=OTVwYnNld3kwOXJz" />
-    <SectionTitleComponent title="Eventi passati"/>
     <EventComponent 
         title="LMEUP di Settembre" 
         date="08/09/2023" 

@@ -16,7 +16,7 @@ export default {
 <style scoped>
 
 .section-title {
-    font-size: 24px;
+    font-size: 20px;
     margin-left: 24px;
     margin-top: 16px;
 }

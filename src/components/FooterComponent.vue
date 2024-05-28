@@ -5,7 +5,7 @@
         </div>
         <div class="bottom-navbar">
             <ul class="bottom-navigation">
-                <li><router-link to="/contacts">Contatti</router-link></li>
+                <li><router-link to="/shop">Shop</router-link></li>
                 <li>|</li>
                 <li><router-link to="/photos">Foto</router-link></li>
                 <li>|</li>

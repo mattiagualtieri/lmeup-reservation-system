@@ -4,7 +4,7 @@
         <div class="images">
             <div class="text-container fadable">
                 <p>
-                    Gli eventi LMEUP sono organizzati presso la Polisportiva Cognentese, in Via Tonini 5.
+                    Gli eventi LMEUP sono organizzati tipicamente presso la Polisportiva Cognentese, in Via Tonini 5.
                 </p>
             </div>
         </div>
@@ -12,15 +12,24 @@
         <div class="images">
             <div class="text-container fadable">
                 <p>
-                    Puoi trovare maggiori informazioni sulla home del nostro sito. Oppure resta aggiornato seguendoci su Instagram.
+                    Il prossimo evento sarà Venerdì 14 Giugno. Puoi comunque trovare maggiori informazioni sulla home del nostro sito, oppure resta aggiornato seguendoci su Instagram.
                 </p>
             </div>
         </div>
-        <SectionTitleComponent title="Qui Nico mi servono altre domande" class="fadable"/>
+        <SectionTitleComponent title="Come partecipare agli eventi?" class="fadable"/>
         <div class="images">
             <div class="text-container fadable">
                 <p>
-                    Altre rispose
+                    Gli anni scorsi, era obbligatoria la prenotazioni agli eventi. Da quest'anno, la prenotazione non sarà più obbligatoria. 
+                    Ovvio che se ci aspettiamo 3 mila persone e se ne presentano 4 mila, gli ultimi arrivati dovranno tornarsene a casa!
+                </p>
+            </div>
+        </div>
+        <SectionTitleComponent title="Esistono delle prevendite?" class="fadable"/>
+        <div class="images">
+            <div class="text-container fadable">
+                <p>
+                    No, niente prevendite. Non siamo una discoteca. Il pagamento per l'ingresso dovrà essere fatto in loco e in contanti.
                 </p>
             </div>
         </div>
@@ -83,7 +92,7 @@ export default {
 }
 
 p {
-    font-size: 20px;
+    font-size: 24px;
 }
 
 @media (max-width: 850px) {

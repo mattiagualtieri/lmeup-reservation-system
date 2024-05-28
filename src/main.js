@@ -5,7 +5,7 @@ import App from './App.vue'
 import HomeView from './views/HomeView.vue'
 import EventsView from './views/EventsView.vue'
 import QuestionsView from './views/QuestionsView.vue'
-import ContactsView from './views/ContactsView.vue'
+import MerchView from './views/MerchView.vue'
 import AboutView from './views/AboutView.vue'
 
 /* Font Awesome */
@@ -25,7 +25,7 @@ const routes = [
     { path: '/events', component: EventsView },
     { path: '/about', component: AboutView },
     { path: '/FAQs', component: QuestionsView },
-    { path: '/contacts', component: ContactsView },
+    { path: '/merch', component: MerchView },
 ]
 
 const router = createRouter({
