@@ -18,9 +18,7 @@
                 Maglietta rappresentante la famosa statua situata nel centro di Cognento. Un antico proverbio africano recita: "Vede più un vecchio seduto che un giovane in piedi".
               </p>
           </div>
-          <div class="image-container"><img src="../assets/tshirt1.jpg" class="fadable"></div>
-          <div class="image-container"><img src="../assets/tshirt1.jpg" class="fadable"></div>
-          <div class="image-container"><img src="../assets/tshirt1.jpg" class="fadable"></div>
+          <div class="image-container"><img src="../assets/tshirt1.jpeg" class="fadable"></div>
       </div>
       <SectionTitleComponent title="&quot;Il 10 Cognento&quot;"/>
       <div class="images">
@@ -29,9 +27,7 @@
                 Su cui ogni cognentese che si rispetti è salito almeno una volta, sempre in ritardo quando sei in anticipo e sempre in anticipo quando sei in ritardo.
               </p>
           </div>
-          <div class="image-container"><img src="../assets/tshirt1.jpg" class="fadable"></div>
-          <div class="image-container"><img src="../assets/tshirt1.jpg" class="fadable"></div>
-          <div class="image-container"><img src="../assets/tshirt1.jpg" class="fadable"></div>
+          <div class="image-container"><img src="../assets/tshirt2.jpeg" class="fadable"></div>
       </div>
       <SectionTitleComponent title="&quot;Il Pigugnino&quot;"/>
       <div class="images">
@@ -40,9 +36,19 @@
                 Un quarto per un Pigugno in poli? Celebre gioco di carte molto in voga sul suolo cognentese. Per maggiori info, visitare la pagina su <a href="https://it.wikipedia.org/wiki/Pigugno">Wikipedia</a>
               </p>
           </div>
-          <div class="image-container"><img src="../assets/tshirt1.jpg" class="fadable"></div>
-          <div class="image-container"><img src="../assets/tshirt1.jpg" class="fadable"></div>
-          <div class="image-container"><img src="../assets/tshirt1.jpg" class="fadable"></div>
+          <div class="image-container"><img src="../assets/tshirt3.jpeg" class="fadable"></div>
+      </div>
+      <SectionTitleComponent title="&quot;Cognento classic #1&quot;"/>
+      <div class="images">
+          <div class="image-container"><img src="../assets/tshirt4.jpeg" class="fadable"></div>
+      </div>
+      <SectionTitleComponent title="&quot;Cognento classic #2&quot;"/>
+      <div class="images">
+          <div class="image-container"><img src="../assets/tshirt5.jpeg" class="fadable"></div>
+      </div>
+      <SectionTitleComponent title="&quot;Cognento classic #3&quot;"/>
+      <div class="images">
+          <div class="image-container"><img src="../assets/tshirt6.jpeg" class="fadable"></div>
       </div>
       <FooterComponent/>
   </div>
