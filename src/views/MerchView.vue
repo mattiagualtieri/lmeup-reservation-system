@@ -4,7 +4,7 @@
       <div class="images">
           <div class="text-container">
               <p>
-                Il merchandising targato LMEUP è disponibile sul sito <a href="https://www.gibischool.it/">www.gibischool.it</a> o acquistabile ai nostri eventi.
+                Il merchandising targato LMEUP è disponibile sul sito di <a href="https://shop.gibischool.it/s/le_mille_e_una_polli">Gibi</a> o acquistabile ai nostri eventi.
               </p>
           </div>
       </div>
@@ -24,7 +24,7 @@
       <div class="images">
           <div class="text-container">
               <p>
-                Su cui ogni cognentese che si rispetti è salito almeno una volta, sempre in ritardo quando sei in anticipo e sempre in anticipo quando sei in ritardo.
+                Sul quale ogni cognentese che si rispetti è salito almeno una volta, sempre in ritardo quando sei in anticipo e sempre in anticipo quando sei in ritardo.
               </p>
           </div>
           <div class="image-container"><img src="../assets/tshirt2.jpeg" class="fadable"></div>
@@ -33,7 +33,7 @@
       <div class="images">
           <div class="text-container">
               <p>
-                Un quarto per un Pigugno in poli? Celebre gioco di carte molto in voga sul suolo cognentese. Per maggiori info, visitare la pagina su <a href="https://it.wikipedia.org/wiki/Pigugno">Wikipedia</a>
+                Un quarto per un Pigugno in poli? Celebre gioco di carte molto in voga in territorio cognentese. Per maggiori info, visitare la pagina su <a href="https://it.wikipedia.org/wiki/Pigugno">Wikipedia</a>.
               </p>
           </div>
           <div class="image-container"><img src="../assets/tshirt3.jpeg" class="fadable"></div>
@@ -45,10 +45,6 @@
       <SectionTitleComponent title="&quot;Cognento classic #2&quot;"/>
       <div class="images">
           <div class="image-container"><img src="../assets/tshirt5.jpeg" class="fadable"></div>
-      </div>
-      <SectionTitleComponent title="&quot;Cognento classic #3&quot;"/>
-      <div class="images">
-          <div class="image-container"><img src="../assets/tshirt6.jpeg" class="fadable"></div>
       </div>
       <FooterComponent/>
   </div>

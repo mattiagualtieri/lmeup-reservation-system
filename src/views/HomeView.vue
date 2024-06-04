@@ -6,7 +6,7 @@
         date="14/06/2024" 
         location="Modena, Via Tonini 5" 
         banner="banner7" 
-        info_url="https://www.instagram.com/p/C6D_kRKq-ND/?igsh=OTVwYnNld3kwOXJz" />
+        info_url="https://www.instagram.com/p/C7GtksyKsgV/?igsh=b3hkNThlMTNnb3A5" />
     <SectionTitleComponent title="Eventi passati"/>
     <ComingEventComponent 
         title="Torneo di Beach Volley" 
