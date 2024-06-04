@@ -29,7 +29,7 @@
         <div class="images">
             <div class="text-container fadable">
                 <p>
-                    No, niente prevendite. Non siamo una discoteca. Il pagamento per l'ingresso dovrà essere fatto in loco e in contanti.
+                    No, niente prevendite. Non siamo una discoteca. Il pagamento per l'ingresso dovrà essere fatto in loco.
                 </p>
             </div>
         </div>
