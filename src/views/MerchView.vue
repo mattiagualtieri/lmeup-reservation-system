@@ -9,7 +9,7 @@
           </div>
       </div>
       <div class="button-container">
-        <a href="https://www.gibischool.it/" target="https://www.gibischool.it/" class="button green-button">Vai allo shop</a>
+        <a href="https://shop.gibischool.it/s/le_mille_e_una_polli" target="https://shop.gibischool.it/s/le_mille_e_una_polli" class="button green-button">Vai allo shop</a>
       </div>
       <SectionTitleComponent title="&quot;Il vecchio di Cog&quot;"/>
       <div class="images">
