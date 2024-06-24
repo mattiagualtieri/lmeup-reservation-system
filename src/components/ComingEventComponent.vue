@@ -97,7 +97,7 @@ export default {
 }
 
 .banner7 {
-    background-image: url('../assets/banner7.jpeg');
+    background-image: url('../assets/banner7.jpg');
 }
 
 .event-right-content {

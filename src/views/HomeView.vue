@@ -1,15 +1,16 @@
 <template>
     <VideoComponent/>
     <SectionTitleComponent title="Prossimi eventi"/>
-    <ComingEventComponent 
+    <ComingSoonComponent/>
+    <SectionTitleComponent title="Eventi passati"/>
+    <EventComponent 
         title="LMEUP di Giugno" 
         date="14/06/2024" 
         location="Modena, Via Tonini 5" 
         banner="banner7" 
-        info_url="https://www.instagram.com/p/C7GtksyKsgV/?igsh=b3hkNThlMTNnb3A5" />
-    <SectionTitleComponent title="Eventi passati"/>
+        photo_url="https://drive.google.com/drive/folders/1ZoMv-SsSmhXbVchO4vHsI2nTcPBoA4ds" />
     <ComingEventComponent 
-        title="Torneo di Beach Volley" 
+        title="Torneo di Beach Volley " 
         date="11/05/2024" 
         location="Modena, Via Tonini 5" 
         banner="banner6" 
@@ -21,7 +22,7 @@
         banner="banner1" 
         photo_url="https://drive.google.com/drive/mobile/folders/1Tu9M8X1oQScTJtr_9iOYsWssSP5-SAdY?usp=sharing&fbclid=PAAaYcAajNDp5wVhzQCetY2lUfVnvNjFOo16qeWk_vp9WWnQnyVefqdKDgG6E" />
     <EventComponent 
-        title="LMEUP di Luglio" 
+        title="LMEUP di Luglio " 
         date="21/07/2023" 
         location="Modena, Via Tonini 5" 
         banner="banner2" 
@@ -39,7 +40,7 @@
 <script>
 import VideoComponent from '../components/VideoComponent.vue'
 import SectionTitleComponent from '../components/SectionTitleComponent.vue'
-//import ComingSoonComponent from '../components/ComingSoonComponent.vue'
+import ComingSoonComponent from '../components/ComingSoonComponent.vue'
 import ComingEventComponent from '../components/ComingEventComponent.vue'
 import EventComponent from '../components/EventComponent.vue'
 import SeeAllButtonComponent from '../components/SeeAllButtonComponent.vue'
@@ -50,7 +51,7 @@ export default {
   components: {
     VideoComponent,
     SectionTitleComponent,
-    // ComingSoonComponent,
+    ComingSoonComponent,
     ComingEventComponent,
     EventComponent,
     SeeAllButtonComponent,

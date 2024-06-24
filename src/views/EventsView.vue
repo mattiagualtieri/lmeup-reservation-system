@@ -1,4 +1,11 @@
 <template>
+    <SectionTitleComponent title="2024"/>
+    <EventComponent 
+        title="LMEUP di Giugno" 
+        date="14/06/2024" 
+        location="Modena, Via Tonini 5" 
+        banner="banner7" 
+        photo_url="https://drive.google.com/drive/folders/1ZoMv-SsSmhXbVchO4vHsI2nTcPBoA4ds" />
     <SectionTitleComponent title="2023"/>
     <EventComponent 
         title="LMEUP di Settembre" 

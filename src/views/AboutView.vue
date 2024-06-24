@@ -26,7 +26,7 @@ Per dimostrare, in primis a noi stessi, che basta davvero poco per stare bene. <
 Che non serve andare alla ricerca di chissà quale discoteca, chissà quale privè, chissà quale esorbitante ticket di ingresso. <br>
 Almeno, questo è ciò che avremmo voluto venisse offerto a Noi quando abbiamo cominciato, ed è ciò che continuiamo a voler offrire a chi sceglie di sceglierci. <br>
 Perché siamo in continua evoluzione, ma mai tradiremo ciò che ci ha mosso fin dall’inizio. <br>
-Fin dal 26 Giugno 2021, con settanta persone, arrivando all’8 Settembre 2023, quando eravate più di 1500. <br>
+Fin dal 26 Giugno 2021, con settanta persone, arrivando al 14 Giugno 2024, quando eravate in più di 2 mila. <br>
 Perché non c’è ricompensa economica che tenga. <br>
 Non c’è soddisfazione più grande per noi, una quindicina di ragazzi normali, di vedere realizzata la nostra illusione, che illusione non è stata. <br>
 <br>
