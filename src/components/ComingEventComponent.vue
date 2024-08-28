@@ -22,7 +22,7 @@
         </div>
     </div>
 </template>
-  
+
 <script>
 export default {
     name: 'ComingEventComponent',
@@ -34,7 +34,7 @@ export default {
         info_url: String
     },
     computed: {
-        classes () {
+        classes() {
             return this.banner;
         }
     },
@@ -45,9 +45,8 @@ export default {
     }
 }
 </script>
-  
-<style scoped>
 
+<style scoped>
 .event-container {
     padding: 50;
     margin-bottom: 64px;
@@ -98,6 +97,10 @@ export default {
 
 .banner7 {
     background-image: url('../assets/banner7.jpg');
+}
+
+.banner8 {
+    background-image: url('../assets/banner8.jpg');
 }
 
 .event-right-content {
@@ -152,13 +155,13 @@ export default {
 }
 
 .green-button:hover {
-    background-color: white; 
-    color: black; 
+    background-color: white;
+    color: black;
     border: 2px solid #006321;
 }
 
 .white-button {
-    background-color: white; 
+    background-color: white;
     color: black;
 }
 
@@ -195,7 +198,7 @@ export default {
         margin-top: 16px;
         margin-left: 24px;
     }
-    
+
     .event-title {
         font-size: 28px;
         font-weight: bold;
@@ -214,5 +217,4 @@ export default {
         border: 2px solid #006321;
     }
 }
-
 </style>
